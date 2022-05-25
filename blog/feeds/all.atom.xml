@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022ag2</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-06T11:23:09+08:00</updated><entry><title>cd2022ag2</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-04-06T11:23:09+08:00</updated><author><name>40923105</name></author><id>tag:None,2022-04-06:./w7_summary.html</id><summary type="html">&lt;p&gt;cd2022ag2 協同產品設計&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022ag2</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-05-25T11:03:07+08:00</updated><entry><title>cd2022ag2</title><link href="./w11.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-05-25T11:03:07+08:00</updated><author><name>40923105</name></author><id>tag:None,2022-04-06:./w11.html</id><summary type="html">&lt;p&gt;w11任務&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w11任務&lt;/p&gt;
+
+
+&lt;p&gt;40923107 心得：&lt;/p&gt;
+&lt;p&gt;第八週開始畫 uarm 零件及組合圖， 我被分配到 Solvespace 的繪圖軟體，之前因為沒使用過這款軟體，所以剛開始畫得很卡，現在有比較熟悉，已經了解在繪製任何草圖前，要先 sketch in new work plane 選擇座標平面，或定義三軸座標的零件任意處(可點一個面、2或3條軸)，以及長料方式。但在組合的部分還不熟悉。另外已會用SSH 協定, 參與組長帳號下的分組倉儲內容協同編輯，並解決產生的衝突。&lt;/p&gt;
+&lt;p&gt;40923105 心得 :&lt;/p&gt;
+&lt;p&gt;被分配至 Solvespace，剛開始使用時，覺得很難用，不知道怎麼標註也不知道怎麼去約束其線條，但有上網去學習怎麼使用 slovespace 裡的繪製零件以及組裝零件，現在用起來沒有以前那麼卡了，可是還是不太清楚旁邊的小黑框怎麼使用，目前還在摸索中；現在也把大組倉儲跟個人倉儲由 token 更改為 ssh，並嘗試解決衝突。&lt;/p&gt;
+&lt;p&gt;遇到的問題：組長和組員同時用 cms 編輯網頁，組員 Pull new request 後 merge 失敗。
+&lt;a href="https://40923105.github.io/cd2022ag2/downloads/%E8%A7%A3%E6%B1%BA%E8%A1%9D%E7%AA%81.mp4"&gt;wink影片&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="w11"></category></entry><entry><title>cd2022ag2</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-05-25T10:35:26+08:00</updated><author><name>40923105</name></author><id>tag:None,2022-04-06:./w7_summary.html</id><summary type="html">&lt;p&gt;w7任務&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w7任務&lt;/p&gt;
+
+
+&lt;h2&gt;W7&lt;/h2&gt;
+&lt;p&gt;40923102 分配至 NX1980
+40923104 分配至 Solvespace
+40923105 
+40923106 分配至 Onshape
+40923107 分配至 NX2008
+40923110 分配至 NX12&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="w7"></category></entry><entry><title>cd2022ag2</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-05-25T10:12:07+08:00</updated><author><name>40923105</name></author><id>tag:None,2022-04-06:./w7_summary.html</id><summary type="html">&lt;p&gt;cd2022ag2 協同產品設計&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;cd2022ag2 協同產品設計&lt;/p&gt;
 
 
@@ -11,4 +32,28 @@
 40923107 分配至 NX2008
 40923110 分配至 NX12&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="cd2022ag2"></category></entry></feed>
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="cd2022ag2"></category></entry><entry><title>cd2022ag2</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-05-25T10:12:07+08:00</updated><author><name>40923105</name></author><id>tag:None,2022-04-06:./w7_summary.html</id><summary type="html">&lt;p&gt;cd2022ag2 協同產品設計&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;cd2022ag2 協同產品設計&lt;/p&gt;
+
+
+&lt;h2&gt;W7&lt;/h2&gt;
+&lt;p&gt;40923102 分配至 NX1980
+40923104 分配至 Solvespace
+40923105 
+40923106 分配至 Onshape
+40923107 分配至 NX2008
+40923110 分配至 NX12&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="cd2022ag2"></category></entry><entry><title>cd2022ag2</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-05-25T10:35:26+08:00</updated><author><name>40923105</name></author><id>tag:None,2022-04-06:./w7_summary.html</id><summary type="html">&lt;p&gt;w7任務&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w7任務&lt;/p&gt;
+
+
+&lt;h2&gt;W7&lt;/h2&gt;
+&lt;p&gt;40923102 分配至 NX1980
+40923104 分配至 Solvespace
+40923105 
+40923106 分配至 Onshape
+40923107 分配至 NX2008
+40923110 分配至 NX12&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="w7"></category></entry></feed>
